@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there , I'm Abhijeet
 
-<!--
-**iamAbhi-916/iamAbhi-916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 🎓 I'm currently pursuing Bachelors in software engineering (Third Year) from Maharastra Institute of Technology(World Peace University).
@@ -11,4 +9,4 @@ Here are some ideas to get you started:
 
 
 
-Data Science Portfolio
+###Data Science Portfolio
