@@ -1,8 +1,8 @@
 ### Hi there 👋, I am Abhijeet
 #### Data science , Machine learning , neural nets and Development.
-![Data science , Machine learning , neural nets and Development.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Data science , Machine learning , neural nets and Development.](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shutterstock.com%2Fcategory%2Fnature&psig=AOvVaw3H9TB6FFRjzZes0XSOd65r&ust=1607260763631000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCHhov3tu0CFQAAAAAdAAAAABAD)
 
-I am a aspiring data scientist , currently in the third year of my graduation in computer Science  at MIT world peace university situated in Pune. I really enjoy learning languages like python , java , sql and also working on projects on machine learning , neural nets . I am also good at  making  websites using languages such as  html , css , php as well as   javascript 
+I am a aspiring data scientist , currently in the third year of my graduation in computer Science  at MIT world peace university situated in Pune. I really enjoy learning languages like python , java , sql and also working on projects on machine learning , neural nets . I am also good at  making  websites using languages such as  html , css , php as well as   javascript .
 
 Skills: Python / Java / SQl / JS / HTML / CSS
 
