@@ -6,7 +6,7 @@ I am a aspiring data scientist , currently in the third year of my graduation in
 
 Skills: Python / Java / C++ / SQl / PHP / HTML / CSS
 
-- 🔭 I’m currently working on on Convolutional neural net project based on video classification.on Convolutional neural net project based on video classification. 
+- 🔭 I’m currently working on Convolutional neural net project based on video classification.
 - 🌱 I’m currently learning efficient techniques to manipulate data using deep learning . 
 - 📫 How to reach me:  you can message me on abhijeetjha916@gmail.com 
 
