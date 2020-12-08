@@ -4,7 +4,7 @@
 
 I am a aspiring data scientist , currently in the third year of my graduation in computer Science at MIT world peace university situated in Pune. I really enjoy learning languages like python , java , sql and also working on projects on machine learning , neural nets . I am also good at making websites using languages such as html , css , php as well as javascript .
 
-Skills: Python / Java / C++ / SQl / PHP / HTML / CSS
+Skills: Python / Java / C++ / SQl / PHP / HTML / CSS / Flask
 
 - 🔭 I’m currently working on Convolutional neural net project involving video classification.
 - 🌱 I’m currently learning efficient techniques to manipulate data using deep learning . 
