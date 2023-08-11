@@ -1,7 +1,7 @@
 ### Hi there 👋, I am Abhijeet
 #### Data science , Machine learning , neural nets and Development.
 
-Skills: Python / Java / SQl / PHP /  Flask / web development / data science
+Skills: Python / Java / SQl / PHP /  Flask / web development / data science / golang / cloud development / Automation / kubernetes / git / travis ci / DSA 
 
 - 🔭 I’m currently working on Convolutional neural net project involving video classification.
 - 🌱 I’m currently learning efficient techniques to manipulate data using deep learning . 
