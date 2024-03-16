@@ -1,10 +1,16 @@
-### Hi there 👋, I am Abhijeet
-#### Data science , Machine learning , neural nets and Development.
+###  Abhijeet Jha
+#### Currently Position : Software Engineer at IBM Software lab
 
-Skills: Python / Java / SQl / PHP /  Flask / web development / data science / golang / cloud development / Automation / kubernetes / git / travis ci / DSA 
+Skills: Kubernetes | Docker | Backend | Automation | Containers | Storage Systems | Microservices | Databases | Linux | Travis CICD | Microservices | Distributed systems | DSA 
 
-- 🔭 I’m currently working on Convolutional neural net project involving video classification.
-- 🌱 I’m currently learning efficient techniques to manipulate data using deep learning . 
+Languages: Golang | Java | Python | Ansible 
+
+Cloud Platforms : Redhat Openshift | Google Cloud Platform 
+
+
+
+- 🔭 Currently working on IBM Spectrum Fusion Platform with a focus on compute requirements of the on-premises containerized applications.
+- 🌱 Have keen interest in learning about Convolutional neural nets project involving video classification and manipulating data using deep learning.
 - 📫 How to reach me:  you can message me on abhijeetjha916@gmail.com 
 
 
