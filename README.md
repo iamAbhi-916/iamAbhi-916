@@ -1,5 +1,5 @@
 ###  Abhijeet Jha
-#### Currently Position : Software Engineer at IBM Software lab
+#### Current Position : Software Engineer at IBM Software lab
 
 Skills: Kubernetes | Docker | Backend | Automation | Containers | Storage Systems | Microservices | Databases | Linux | Travis CICD | Microservices | Distributed systems | DSA 
 
